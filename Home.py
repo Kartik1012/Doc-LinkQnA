@@ -24,10 +24,10 @@ with st.sidebar:
     if st.button("Toggle Dark Mode"):
         darkmode.toggle_theme()
 
-st.subheader("Project Author: Kartik Tyagi")
+st.subheader("Project Author: Nancy Sinha")
 st.write("**Contact**")
 st.write("\t **Linkdein**: [Linkdein](https://www.linkedin.com/in/kartik-tyagi-311464213/)")
-st.write("**Gmail**: [Gmail_ID](kartiktyagi1012@gmail.com)")
+st.write("**Gmail**: [Gmail_ID](nancysinha2706@gmail.com)")
 
 # st.page_link("https://aistudio.google.com/app/apikey", label="Google Api key", icon="Google")
 st.write("From here you can get your **api key** [🌎_link](https://aistudio.google.com/app/apikey)")
